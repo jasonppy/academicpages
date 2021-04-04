@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jason, a undergrad mathematician, statistician, and a incoming computer science PhD student at UT Austin.
+My name is Jason, a undergrad mathematician, statistician, and incoming PhD student in computer science at UT Austin.
 
