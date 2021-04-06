@@ -11,15 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathemaics and Applied Mathematics, Beijing Normal University, 2015 - 2019
-* M.S. in Statistics, University of Chicago, 2019 - 2021
 * Ph.D in Computer Science, University of Texas at Austin, 2021 - present
+* M.S. in Statistics, University of Chicago, 2019 - 2021
+* B.S. in Mathemaics and Applied Mathematics, Beijing Normal University, 2015 - 2019
+
 
 Work experience
 ======
 * Summer 2020: Research Assistant
   * Toyota Technological Institute at Chicago
-  * Project: [Unsupervised Acoustic Word Embeddings](https://arxiv.org/abs/2012.02221)
+  * Project: [A Correspondence Variational Autoencoder for Unsupervised Acoustic Word Embeddings](https://arxiv.org/abs/2012.02221)
   * Supervisor: Associate Professor Karen Livescu
   
 <!-- Skills

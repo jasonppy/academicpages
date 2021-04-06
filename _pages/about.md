@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Finally have a place to write something"
+title: "Hello friends!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jason, a undergrad mathematician, statistician, and incoming PhD student in computer science at UT Austin.
+My name is Jason, an incoming PhD student in computer science at UT Austin.
 
